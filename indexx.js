@@ -1,5 +1,5 @@
 let nomeJogador = "Jorge";
-let pontos = 15000;
+let pontos = 6741;
 let xp = "";
 
 
